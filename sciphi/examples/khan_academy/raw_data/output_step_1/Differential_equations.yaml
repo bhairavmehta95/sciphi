@@ -1,0 +1,24 @@
+course:
+    Differential equations::
+        topics:
+            - First order differential equations:
+                  subtopics:
+                      - Intro to differential equations
+                      - Slope fields
+                      - Euler's Method
+                      - Separable equations
+                      - Exponential models
+                      - Logistic models
+                      - Exact equations and integrating factors
+                      - Homogeneous equations
+            - Second order linear equations:
+                  subtopics:
+                      - Linear homogeneous equations
+                      - Complex and repeated roots of characteristic equation
+                      - Method of undetermined coefficients
+            - Laplace transform:
+                  subtopics:
+                      - Laplace transform
+                      - Properties of the Laplace transform
+                      - Laplace transform to solve a differential equation
+                      - The convolution integral

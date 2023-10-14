@@ -1,0 +1,45 @@
+course:
+    Math Pre-K - 8th grade:
+        topics:
+            - Numbers and Operations:
+                  subtopics:
+                      - Counting and Cardinality
+                      - Addition and Subtraction
+                      - Multiplication and Division
+                      - Fractions
+                      - Decimals
+                      - Place Value
+                      - Order of Operations
+            - Algebraic Concepts:
+                  subtopics:
+                      - Patterns and Sequences
+                      - Algebraic Expressions
+                      - Equations and Inequalities
+                      - Linear Functions
+                      - Quadratic Functions
+                      - Exponential Functions
+            - Geometry:
+                  subtopics:
+                      - Shapes and their Attributes
+                      - Area and Perimeter
+                      - Volume
+                      - Coordinate Geometry
+                      - Transformations
+                      - Congruence and Similarity
+                      - Pythagorean Theorem
+            - Measurement and Data:
+                  subtopics:
+                      - Measurement Units
+                      - Time and Money
+                      - Data Interpretation
+                      - Probability
+                      - Statistics
+                      - Graphs and Charts
+            - Ratios and Proportional Relationships:
+                  subtopics:
+                      - Ratios
+                      - Rates
+                      - Proportions
+                      - Percentages
+                      - Scaling
+                      - Proportional Relationships

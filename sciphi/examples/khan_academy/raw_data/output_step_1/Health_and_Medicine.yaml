@@ -1,0 +1,129 @@
+course:
+    Health and Medicine::
+        topics:
+            - Introduction to human body systems:
+                  subtopics:
+                      - Circulatory system introduction
+                      - Respiratory system introduction
+                      - Hematologic system introduction
+                      - Endocrine system introduction
+                      - Nervous system introduction
+                      - Gastrointestinal system introduction
+                      - Musculoskeletal system introduction
+                      - Reproductive system introduction
+                      - Immunologic system introduction
+                      - Urinary system introduction
+                      - Integumentary system introduction
+                      - Lymphatic system introduction
+            - Circulatory system anatomy and physiology:
+                  subtopics:
+                      - Circulatory anatomy and blood flow
+                      - Heart muscle contraction
+                      - Heart depolarization
+                      - Blood pressure
+                      - Blood vessels
+                      - Blood pressure control by the kidney
+                      - Nerve regulation of the heart
+                      - Preload and afterload
+                      - Pressure volume loops
+                      - Changing the PV loop
+                      - Fetal circulation
+            - Circulatory system diseases:
+                  subtopics:
+                      - Heart disease and heart attacks
+                      - Atherosclerosis, arteriosclerosis, and arteriolosclerosis
+                      - Stroke diagnosis and management
+                      - Aortic dissection and aneurysm
+                      - Myocarditis and pericarditis
+                      - Cardiomyopathy
+                      - Cardiac dysrhythmias and tachycardias
+                      - Heart valve diseases
+                      - Acyanotic heart diseases
+                      - Cyanotic heart diseases
+                      - Shock
+                      - Vasculitis
+            - Respiratory system anatomy and physiology:
+                  subtopics:
+                      - Lung structure and function
+                      - Gas exchange
+                      - Breathing control
+            - Respiratory system diseases:
+                  subtopics:
+                      - Introduction to pulmonary diseases
+                      - Asthma
+                      - Emphysema (COPD)
+                      - Chronic Bronchitis (COPD)
+                      - Cystic fibrosis
+                      - Occupational lung diseases
+                      - Pulmonary hypertension
+                      - Pneumonia
+                      - Pleural Effusion
+                      - Lung cancer
+                      - Nose, sinus, and upper respiratory conditions
+                      - Throat conditions
+                      - Laryngeal conditions
+                      - Bronchiolitis
+            - Hematologic system physiology and disease:
+                  subtopics:
+                      - Blood and blood cells
+                      - Hemoglobin
+                      - Bleeding and impaired hemostasis
+                      - Leukemia
+                      - Iron deficiency anemia and anemia of chronic disease
+                      - Plasma cell dyscrasias
+                      - Myeloproliferative disorders
+            - Endocrine system physiology and disease:
+                  subtopics:
+                      - Intro to endocrine hormones
+                      - Biological basis of behavior: Endocrine system
+            - Nervous system physiology and disease:
+                  subtopics:
+                      - Structure and function of the nervous system
+                      - Neural cell types
+                      - Function of neurons and neurotransmitters
+                      - Neuron membrane potentials
+                      - Sensory perception
+                      - Sight (vision)
+                      - Sound (Audition)
+                      - Somatosensation
+                      - Taste (gustation) and smell (olfaction)
+                      - Multiple sclerosis
+                      - Miscellaneous topics: Nervous system physiology and disease
+            - Brain function and mental health:
+                  subtopics:
+                      - Cognition
+                      - Attention and language
+                      - Sleep and consciousness
+                      - Memory
+                      - Emotion
+            - Gastrointestinal system physiology and disease:
+                  subtopics:
+                      - Components of the GI tract
+                      - Inflammatory bowel disease
+                      - Celiac disease
+                      - Colon diseases
+                      - BMI and diet
+            - Musculoskeletal system physiology and disease:
+                  subtopics:
+                      - Muscle contraction
+                      - Muscle innervation
+                      - Skeletal system introduction
+            - Reproductive system and pregnancy:
+                  subtopics:
+                      - Female reproductive system
+                      - Male reproductive system
+                      - Pregnancy anatomy and physiology
+                      - Pregnancy complications
+                      - Fetal circulation
+            - Infectious diseases:
+                  subtopics:
+                      - Bacteria and viruses
+                      - Pertussis
+                      - Influenza
+            - Other topics in health and medicine:
+                  subtopics:
+                      - Health care system
+                      - Lab values and concentrations
+                      - Child growth and development
+                      - Cancer
+                      - Inflammation and exposures

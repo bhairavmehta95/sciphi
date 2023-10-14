@@ -1,0 +1,94 @@
+course:
+    Algebra 2::
+        topics:
+            - Polynomial arithmetic:
+                  subtopics:
+                      - Intro to polynomials
+                      - Average rate of change of polynomials
+                      - Adding and subtracting polynomials
+                      - Multiplying monomials by polynomials
+                      - Multiplying binomials by polynomials
+                      - Special products of polynomials
+            - Complex numbers:
+                  subtopics:
+                      - The imaginary unit i
+                      - Complex numbers introduction
+                      - The complex plane
+                      - Adding and subtracting complex numbers
+                      - Quadratic equations with complex solutions
+            - Polynomial factorization:
+                  subtopics:
+                      - Factoring monomials
+                      - Greatest common factor
+                      - Taking common factors
+                      - Factoring higher degree polynomials
+                      - Factoring using structure
+                      - Polynomial identities
+                      - Geometric series
+            - Polynomial division:
+                  subtopics:
+                      - Dividing polynomials by x
+                      - Dividing quadratics by linear factors
+                      - Dividing polynomials by linear factors
+                      - Polynomial Remainder Theorem
+            - Polynomial graphs:
+                  subtopics:
+                      - Zeros of polynomials
+                      - Positive and negative intervals of polynomials
+                      - End behavior of polynomials
+            - Rational exponents and radicals:
+                  subtopics:
+                      - Rational exponents
+                      - Properties of exponents (rational exponents)
+                      - Evaluating exponents & radicals
+                      - Equivalent forms of exponential expressions
+                      - Solving exponential equations using properties of exponents
+            - Exponential models:
+                  subtopics:
+                      - Interpreting the rate of change of exponential models
+                      - Constructing exponential models according to rate of change
+                      - Advanced interpretation of exponential models
+            - Logarithms:
+                  subtopics:
+                      - Introduction to logarithms
+                      - The constant e and the natural logarithm
+                      - Properties of logarithms
+                      - The change of base formula for logarithms
+                      - Solving exponential equations with logarithms
+                      - Solving exponential models
+            - Transformations of functions:
+                  subtopics:
+                      - Shifting functions
+                      - Reflecting functions
+                      - Symmetry of functions
+                      - Scaling functions
+                      - Putting it all together
+                      - Graphs of square and cube root functions
+                      - Graphs of exponential functions
+                      - Graphs of logarithmic functions
+            - Equations:
+                  subtopics:
+                      - Rational equations
+                      - Square-root equations
+                      - Extraneous solutions
+                      - Cube-root equations
+                      - Quadratic systems
+                      - Solving equations by graphing
+            - Trigonometry:
+                  subtopics:
+                      - Unit circle introduction
+                      - Radians
+                      - The Pythagorean identity
+                      - Trigonometric values of special angles
+                      - Graphs of sin(x), cos(x), and tan(x)
+                      - Amplitude, midline and period
+                      - Transforming sinusoidal graphs
+                      - Graphing sinusoidal functions
+                      - Sinusoidal models
+            - Modeling:
+                  subtopics:
+                      - Modeling with function combination
+                      - Interpreting features of functions
+                      - Manipulating formulas
+                      - Modeling with two variables
+                      - Modeling with multiple variables

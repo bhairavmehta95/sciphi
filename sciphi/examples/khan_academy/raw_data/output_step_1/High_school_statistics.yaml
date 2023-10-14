@@ -1,0 +1,48 @@
+course:
+    High school statistics::
+        topics:
+            - Displaying a single quantitative variable:
+                  subtopics:
+                      - Frequency tables and dot plots
+                      - Histograms
+                      - Mean and median in data displays
+                      - Interquartile range
+                      - Box and whisker plots
+            - Analyzing a single quantitative variable:
+                  subtopics:
+                      - Standard deviation
+                      - Comparing distributions
+                      - Percentiles and z-scores
+                      - Normal distributions and the empirical rule
+                      - Normal distribution calculations
+            - Two-way tables:
+                  subtopics:
+                      - Two-way tables introduction
+                      - Distributions in two-way tables
+            - Scatterplots:
+                  subtopics:
+                      - Fitting trend lines to scatterplots
+                      - Analyzing trend lines in scatterplots
+                      - Residuals
+            - Study design:
+                  subtopics:
+                      - Introduction to planning a study
+                      - Potential problems with sampling
+                      - Sampling methods
+                      - Introduction to experimental design
+                      - Inference and experiments
+            - Probability:
+                  subtopics:
+                      - Venn diagrams and the addition rule
+                      - Multiplication rule for probabilities
+                      - Conditional probability
+                      - Probability from simulations
+                      - Permutations
+                      - Combinations
+                      - Probability using combinatorics
+            - Probability distributions & expected value:
+                  subtopics:
+                      - Probability distributions introduction
+                      - Theoretical & empirical probability distributions
+                      - Decisions with probability
+                      - Expected value

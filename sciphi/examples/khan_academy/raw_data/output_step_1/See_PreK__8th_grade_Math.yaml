@@ -1,0 +1,54 @@
+course:
+    See Pre-K - 8th grade Math:
+        topics:
+            - Numbers and Operations:
+                  subtopics:
+                      - Counting and Cardinality
+                      - Addition and Subtraction
+                      - Multiplication and Division
+                      - Fractions
+                      - Decimals
+                      - Percentages
+                      - Order of Operations
+                      - Prime Numbers and Factors
+                      - Rational and Irrational Numbers
+            - Algebraic Concepts:
+                  subtopics:
+                      - Basic Algebraic Expressions
+                      - Solving Equations
+                      - Inequalities
+                      - Linear Equations
+                      - Quadratic Equations
+                      - Exponents and Radicals
+                      - Polynomials
+                      - Algebraic Fractions
+            - Geometry:
+                  subtopics:
+                      - Basic Shapes and Figures
+                      - Perimeter and Area
+                      - Volume
+                      - Angles
+                      - Triangles
+                      - Quadrilaterals
+                      - Circles
+                      - Coordinate Geometry
+                      - Transformations
+            - Measurement and Data:
+                  subtopics:
+                      - Units of Measurement
+                      - Time
+                      - Money
+                      - Data Interpretation
+                      - Graphs and Charts
+                      - Probability
+                      - Statistics
+                      - Patterns
+            - Ratios and Proportional Relationships:
+                  subtopics:
+                      - Ratios
+                      - Rates
+                      - Proportions
+                      - Percentages
+                      - Scaling
+                      - Similar Figures
+                      - Direct and Inverse Variation

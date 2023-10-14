@@ -1,0 +1,44 @@
+course:
+    Multivariable Calculus::
+        topics:
+            - Thinking about Multivariable Functions:
+                  subtopics:
+                      - Introduction to Multivariable Calculus
+                      - Visualizing Scalar-valued Functions
+                      - Visualizing Vector-valued Functions
+                      - Transformations
+            - Derivatives of Multivariable Functions:
+                  subtopics:
+                      - Partial Derivatives
+                      - Gradient and Directional Derivatives
+                      - Differentiating Parametric Curves
+                      - Multivariable Chain Rule
+                      - Curvature
+                      - Partial Derivatives of Vector-valued Functions
+                      - Divergence
+                      - Curl
+                      - Laplacian
+                      - Jacobian
+            - Applications of Multivariable Derivatives:
+                  subtopics:
+                      - Tangent Planes and Local Linearization
+                      - Quadratic Approximations
+                      - Optimizing Multivariable Functions
+                      - Lagrange Multipliers and Constrained Optimization
+            - Integrating Multivariable Functions:
+                  subtopics:
+                      - Line Integrals for Scalar Functions
+                      - Line Integrals in Vector Fields
+                      - Double Integrals
+                      - Triple Integrals
+                      - Surface Integral Preliminaries
+                      - Surface Integrals
+                      - Flux in 3D
+            - Green's, Stokes', and the Divergence Theorems:
+                  subtopics:
+                      - 2D Divergence Theorem
+                      - Stokes' Theorem
+                      - 3D Divergence Theorem
+                      - Proof of Stokes' Theorem
+                      - Types of Regions in Three Dimensions
+                      - Divergence Theorem Proof

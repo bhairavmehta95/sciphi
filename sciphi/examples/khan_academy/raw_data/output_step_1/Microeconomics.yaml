@@ -1,0 +1,55 @@
+course:
+  Microeconomics::
+    topics:
+    - Basic Economic Concepts:
+        subtopics:
+        - Introduction to Economics
+        - Economic Systems
+        - Production Possibilities Frontier
+        - Comparative Advantage and the Terms of Trade
+    - Supply, Demand, and Market Equilibrium:
+        subtopics:
+        - Demand
+        - Supply
+        - Market Equilibrium and Changes in Equilibrium
+    - Elasticity:
+        subtopics:
+        - Price Elasticity of Demand
+        - Price Elasticity of Supply
+        - Income Elasticity of Demand and Cross-Price Elasticity of Demand
+    - Consumer and Producer Surplus, Market Interventions, and International Trade:
+        subtopics:
+        - Consumer and Producer Surplus
+        - Market Interventions and Deadweight Loss
+        - International Trade
+    - Consumer Theory:
+        subtopics:
+        - Introduction to Consumer Theory: Total Utility and Marginal Utility
+        - Utility Maximization Using Marginal Utility Per Dollar Spent
+        - Utility Maximization with Indifference Curves
+    - Production Decisions and Economic Profit:
+        subtopics:
+        - Introduction to Production and Costs
+        - Production and Costs in the Short Run
+        - Production and Costs in the Long Run
+        - Types of Profit
+        - Profit Maximization
+        - Firm Entry, Exit, and the Shut-Down Rule
+    - Forms of Competition:
+        subtopics:
+        - Perfect Competition
+        - Monopoly
+        - Price Discrimination
+        - Monopolistic Competition
+        - Oligopoly and Game Theory
+    - Factor Markets:
+        subtopics:
+        - Introduction to Factor Markets
+        - Changes in Factor Demand and Supply
+        - Optimal Choice of Factors in Perfectly Competitive Factor Markets
+        - Choosing Inputs When Factor Markets are Monopolistically Competitive
+    - Market Failure and the Role of Government:
+        subtopics:
+        - Externalities
+        - The Four Types of Goods: Private Goods, Public Goods, Common Resources,\
+          \ and Natural Monopolies

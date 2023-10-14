@@ -374,6 +374,7 @@ def ensure_directory_exists(directory_path: str) -> None:
 def prase_yaml_completion(yml_content: dict) -> str:
     """Parse and clean YAML content."""
     completion = yml_content.get("completion", "")
+    # print(completion)
     if "```yaml" not in completion:
         raise ValueError("YML not found in completion")
 

@@ -1,0 +1,31 @@
+course:
+    Middle school Earth and space science - NGSSNEW:
+        topics:
+            - Earth in space:
+                  subtopics:
+                      - Earth's place in the universe
+                      - Galaxies and gravity
+                      - The solar system
+            - The Earth-sun-moon system:
+                  subtopics:
+                      - Seasons
+                      - The moon and its motions
+                      - Solar eclipses
+            - Weather and climate:
+                  subtopics:
+                      - The water cycle
+                      - Weather
+                      - Global winds and currents
+                      - Regional climates
+            - The geosphere:
+                  subtopics:
+                      - The rock cycle
+                      - Fossils and rock layers
+                      - Plate tectonics
+                      - Weathering and erosion
+            - Earth and society:
+                  subtopics:
+                      - Natural resources
+                      - Natural hazards
+                      - Human impacts on the environment
+                      - Earth's changing climate

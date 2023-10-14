@@ -1,0 +1,55 @@
+course:
+  Computer programming::
+    topics:
+    - Intro to JS: Drawing & Animation:
+        subtopics:
+        - Intro to programming
+        - Drawing basics
+        - Coloring
+        - Variables
+        - Interactive programs
+        - Text and strings
+        - Functions
+        - Logic and if Statements
+        - Debugging programs
+        - Looping
+        - Writing clean code
+        - Arrays
+        - Objects
+        - Object-Oriented Design
+    - Intro to HTML/CSS: Making webpages:
+        subtopics:
+        - Intro to HTML
+        - Intro to CSS
+        - More HTML tags
+        - CSS text properties
+        - CSS layout
+        - More CSS selectors
+        - Other ways to embed CSS
+    - Intro to SQL: Querying and managing data:
+        subtopics:
+        - SQL basics
+        - More advanced SQL queries
+    - HTML/JS: Making webpages interactive:
+        subtopics:
+        - Get ready to make your webpages interactive
+        - JS and the DOM
+        - DOM access methods
+        - DOM modification
+        - DOM events
+        - DOM animation
+    - HTML/JS: Making webpages interactive with jQuery:
+        subtopics:
+        - Welcome to jQuery
+        - DOM access with jQuery
+        - DOM modification with jQuery
+        - jQuery techniques
+        - DOM events with jQuery
+        - DOM animation & effects with jQuery
+    - Meet the professional:
+        subtopics:
+        - Meet the professional
+        - Watch an introduction video
+        - Meet the professionals
+        - Help requests
+        - Browse projects

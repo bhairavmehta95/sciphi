@@ -1,0 +1,76 @@
+course:
+    3rd grade::
+        topics:
+            - Intro to multiplication:
+                  subtopics:
+                      - Multiplication as equal groups
+                      - Multiplication on the number line
+                      - Multiplication as groups of objects
+                      - Multiplication with arrays
+                      - Multiplication in contexts
+                      - Commutative property of multiplication
+            - Addition, subtraction, and estimation:
+                  subtopics:
+                      - Rounding to nearest 10 or 100
+                      - Estimate to add multi-digit numbers
+                      - Strategies for adding two and three-digit numbers
+                      - Adding with regrouping within 1000
+                      - Estimate to subtract multi-digit numbers
+                      - Strategies for subtracting two and three-digit numbers
+                      - Subtracting with regrouping within 1000
+                      - Addition and subtraction missing value problems
+                      - Addition and subtraction word problems
+            - Intro to division:
+                  subtopics:
+                      - Division intro
+                      - Division in contexts
+                      - Relating multiplication and division
+            - Understand fractions:
+                  subtopics:
+                      - Fractions intro
+                      - Fractions in contexts
+                      - What fractions mean
+                      - Fractions on the number line
+                      - Fractions and whole numbers
+            - Equivalent fractions and comparing fractions:
+                  subtopics:
+                      - Comparing fractions
+                      - Comparing fractions of different wholes
+                      - Equivalent fractions
+            - More with multiplication and division:
+                  subtopics:
+                      - Letters and symbols in multiplication and division equations
+                      - Multiplication and division word problems
+                      - Associative property of multiplication
+                      - Multiplying by tens
+            - Arithmetic patterns and problem solving:
+                  subtopics:
+                      - 2-step expressions
+                      - Estimation word problems
+                      - One and two-step word problems
+                      - Patterns in arithmetic
+            - Area:
+                  subtopics:
+                      - Count unit squares to find area
+                      - Area formula intuition
+                      - Multiply to find area
+                      - Area and the distributive property
+                      - Decompose figures to find area
+            - Perimeter:
+                  subtopics:
+                      - Perimeter
+                      - Perimeter word problems
+            - Time:
+                  subtopics:
+                      - Time on number line
+                      - Telling time
+                      - Elapsed time
+            - Measurement:
+                  subtopics:
+                      - Mass
+                      - Volume
+            - Represent and interpret data:
+                  subtopics:
+                      - Picture graphs
+                      - Bar graphs
+                      - Line plots with fractions

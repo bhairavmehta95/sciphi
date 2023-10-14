@@ -1,0 +1,35 @@
+course:
+  Pixar in a Box::
+    topics:
+    - Unit 15: Rendering:
+        subtopics:
+        - Effects Overview
+        - Introduction to Particle Systems
+        - Introduction to Virtual Cameras
+        - How Virtual Cameras Work
+        - Introduction to Combinatorics
+        - Building Crowds
+        - Welcome to Rigging
+        - Introduction to Rigging
+        - Math Meets Artistry
+        - Introduction to Animation
+    - Unit 2: The Art of Storytelling:
+        subtopics:
+        - We are all Storytellers
+        - Character
+        - Story Structure
+        - Visual Language
+        - Film Grammar
+        - Pitching and Feedback
+    - Unit 4: Simulation:
+        subtopics:
+        - Hair Simulation 101
+        - Code your own Simulation
+    - Unit 5: Color Science:
+        subtopics:
+        - Introduction to Color
+        - Color Spaces
+    - Unit 6: Virtual Cameras:
+        subtopics:
+        - How Virtual Cameras Work
+        - Mathematics of Depth of Field

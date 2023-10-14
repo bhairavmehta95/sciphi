@@ -1,0 +1,68 @@
+course:
+    Early math review::
+        topics:
+            - Counting:
+                  subtopics:
+                      - Counting
+                      - Counting objects
+                      - Comparing small numbers
+            - Addition and subtraction intro:
+                  subtopics:
+                      - What is addition? What is subtraction?
+                      - Making small numbers
+                      - Making 10
+                      - Put together, take apart
+                      - Relate addition and subtraction
+                      - Addition and subtraction word problems
+            - Place value (tens and hundreds):
+                  subtopics:
+                      - Teens
+                      - Tens
+                      - Comparing 2-digit numbers
+                      - Hundreds
+                      - Comparing three-digit numbers
+            - Addition and subtraction within 20:
+                  subtopics:
+                      - Addition within 20
+                      - Subtraction within 20
+                      - Equal sign
+                      - Missing number within 20
+                      - Word problems within 20
+                      - Word problems with 'more' and 'fewer'
+                      - Repeated addition
+            - Addition and subtraction within 100:
+                  subtopics:
+                      - Skip-counting
+                      - Adding 1s and 10s
+                      - Subtracting 1s and 10s
+                      - Intro to addition with 2-digit numbers
+                      - Intro to subtraction with 2-digit numbers
+                      - Strategies for adding and subtracting within 100
+                      - Addition within 100
+                      - Subtraction within 100
+                      - Word problems within 100
+                      - Word problems with 'more' and 'fewer' (within 100)
+                      - Addition and subtraction missing value problems
+            - Addition and subtraction within 1000:
+                  subtopics:
+                      - Skip counting by 100s
+                      - Adding 1s, 10s, and 100s
+                      - Subtracting 1s, 10s, and 100s
+                      - Strategies for adding 2- and 3-digit numbers
+                      - Adding up to four 2-digit numbers
+            - Measurement and data:
+                  subtopics:
+                      - Measuring length
+                      - Comparing and estimating length
+                      - Length word problems
+                      - Picture graphs
+                      - Bar graphs
+                      - Line plots
+                      - Time
+                      - Money
+            - Geometry:
+                  subtopics:
+                      - Basic shapes
+                      - Properties of shapes
+                      - Composing shapes
+                      - Fractions of shapes

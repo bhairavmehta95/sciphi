@@ -1,0 +1,72 @@
+course:
+    Algebra basics::
+        topics:
+            - Foundations:
+                  subtopics:
+                      - Absolute value
+                      - Exponents
+                      - Square roots
+                      - Order of operations
+                      - Fractions
+                      - Decimals, fractions and percentages
+                      - Operations with decimals
+                      - Area of triangles
+                      - Circumference and area of circles
+            - Algebraic expressions:
+                  subtopics:
+                      - Introduction to variables
+                      - Substitution & evaluating expressions
+                      - Writing algebraic expressions
+                      - Combining like terms
+                      - Distributive property
+                      - Equivalent algebraic expressions
+                      - Nested fractions
+            - Linear equations and inequalities:
+                  subtopics:
+                      - One-step equations
+                      - Two-steps equations
+                      - Multi-step equations
+                      - One-step inequalities
+                      - Two-step inequalities
+                      - Multi-step inequalities
+                      - Writing & solving proportions
+            - Graphing lines and slope:
+                  subtopics:
+                      - Coordinate plane
+                      - Solutions to two-variable linear equations
+                      - x-intercepts and y-intercepts
+                      - Slope
+                      - Horizontal & vertical lines
+                      - Slope-intercept form intro
+                      - Writing slope-intercept equations
+                      - Graphing two-variable inequalities
+            - Systems of equations:
+                  subtopics:
+                      - Systems of equations intro
+                      - Elimination method for systems of equations
+                      - Substitution method for systems of equations
+                      - Number of solutions to systems of equations
+            - Expressions with exponents:
+                  subtopics:
+                      - Exponent properties intro
+                      - Negative exponents
+                      - Exponent properties (integer exponents)
+                      - Scientific notation intro
+                      - Scientific notation word problems
+            - Quadratics and polynomials:
+                  subtopics:
+                      - Adding & subtracting polynomials
+                      - Multiplying binomials
+                      - Special products of binomials
+                      - Factoring polynomials by taking common factors
+                      - Factoring quadratics 1
+                      - Factoring quadratics 2
+                      - Factoring quadratics: Difference of squares
+                      - Factoring quadratics: Perfect squares
+                      - Solving quadratic equations by factoring
+            - Equations and geometry:
+                  subtopics:
+                      - Equations & geometry
+                      - Triangle angles
+                      - Pythagorean theorem
+                      - Triangle similarity intro

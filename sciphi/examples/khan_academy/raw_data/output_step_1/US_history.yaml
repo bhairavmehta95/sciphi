@@ -1,0 +1,25 @@
+course:
+    US history::
+        topics:
+            - Worlds collide (1491-1607):
+                  subtopics:
+                      - Thinking like a historian
+                      - Before contact
+                      - Spanish colonization
+            - Colonial America (1607-1754):
+                  subtopics:
+                      - Early colonization projects
+                      - Chesapeake and Southern colonies
+                      - Colonial North America
+            - The road to revolution (1754-1800):
+                  subtopics:
+                      - The American Revolution
+                      - Creating a nation
+            - The early republic (1800-1848):
+                  subtopics:
+                      - The age of Jackson
+                      - Culture and reform in the early nineteenth century
+            - The postwar era (1945-1980):
+                  subtopics:
+                      - The postwar era, 1945-1950
+                      - 1950s America

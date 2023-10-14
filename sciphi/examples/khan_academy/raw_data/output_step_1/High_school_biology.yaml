@@ -1,0 +1,61 @@
+course:
+    High school biology::
+        topics:
+            - Biology foundations:
+                  subtopics:
+                      - Biology and the scientific method
+                      - Important molecules for biology
+                      - Water and life
+                      - pH, acids, and bases
+            - Cells:
+                  subtopics:
+                      - Introduction to cells
+                      - Basic cell structures
+                      - The cell membrane
+                      - Eukaryotic cell structures
+                      - Prokaryotes and eukaryotes
+                      - Plant vs animal cells
+            - Energy and transport:
+                  subtopics:
+                      - Introduction to metabolism
+                      - Enzymes
+                      - Passive and active transport
+                      - Osmosis and tonicity
+                      - Photosynthesis
+                      - Cellular respiration
+            - Reproduction and cell division:
+                  subtopics:
+                      - Types of reproduction
+                      - The cell cycle and mitosis
+                      - Meiosis
+                      - Fertilization and development
+            - Classical genetics:
+                  subtopics:
+                      - Introduction to heredity
+                      - Non-Mendelian inheritance
+                      - Sex linkage
+                      - Pedigrees
+            - Molecular genetics:
+                  subtopics:
+                      - RNA and protein synthesis
+                      - Biotechnology
+            - Evolution:
+                  subtopics:
+                      - Evolution and natural selection
+                      - Evidence of evolution
+                      - Phylogeny
+            - Human body systems:
+                  subtopics:
+                      - Body structure and homeostasis
+                      - The circulatory and respiratory systems
+                      - The musculoskeletal system
+                      - The digestive and excretory systems
+                      - The nervous and endocrine systems
+                      - The reproductive system
+                      - The immune system
+            - Ecology:
+                  subtopics:
+                      - Ecological relationships
+                      - Trophic levels
+                      - Biogeochemical cycles
+                      - Human impact on ecosystems

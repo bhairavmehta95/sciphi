@@ -1,0 +1,66 @@
+course:
+  Macroeconomics::
+    topics:
+    - Basic Economics Concepts:
+        subtopics:
+        - Opportunity Cost and the Production Possibilities Curve
+        - Comparative Advantage and the Gains from Trade
+        - Demand
+        - Supply
+        - Markets
+    - Economic Indicators and the Business Cycle:
+        subtopics:
+        - Gross Domestic Product
+        - Limitations of GDP
+        - Unemployment
+        - Inflation
+        - Costs of Inflation
+        - Real vs. Nominal GDP
+        - Business Cycles
+    - National Income and Price Determination:
+        subtopics:
+        - Aggregate Demand
+        - Multipliers
+        - Short-run Aggregate Supply
+        - Long-run Aggregate Supply
+        - Equilibrium in the AD-AS Model
+        - Changes in the AD-AS Model in the Short Run
+        - Long Run Self-adjustment
+        - Fiscal Policy
+        - Automatic Stabilizers
+    - Financial Sector:
+        subtopics:
+        - Financial Assets
+        - Nominal v. Real Interest Rates
+        - Definition, Measurement, and Functions of Money
+        - Banking and the Expansion of the Money Supply
+        - The Money Market
+        - Monetary Policy
+        - The Market for Loanable Funds
+        - Interest Rates and the Time Value of Money
+    - Long-run Consequences of Stabilization Policies:
+        subtopics:
+        - Fiscal and Monetary Policy Actions in the Short Run
+        - The Phillips Curve
+        - Money Growth and Inflation
+        - Crowding Out
+        - Deficits and Debts
+        - Economic Growth
+    - Open Economy: International Trade and Finance:
+        subtopics:
+        - The Balance of Payments
+        - Exchange Rates
+        - The Foreign Exchange Market
+        - Effect of Changes in Policies and Economic Conditions on the Foreign Exchange\
+          \ Market
+        - Real Interest Rates and International Capital Flows
+    - Keynesian Approaches and IS-LM:
+        subtopics:
+        - The Consumption Function
+        - The Keynesian Cross
+        - IS-LM
+        - Keynesian Economics and its Critiques
+    - Contemporary Macroeconomic Issues:
+        subtopics:
+        - National Income and Inequality
+        - The 2008 Financial Crisis

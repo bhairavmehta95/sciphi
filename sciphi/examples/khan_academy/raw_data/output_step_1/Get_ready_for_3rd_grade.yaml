@@ -1,0 +1,31 @@
+course:
+    Get ready for 3rd grade::
+        topics:
+            - Get ready for addition and subtraction:
+                  subtopics:
+                      - Place value
+                      - Regroup whole numbers
+                      - Add within 100
+                      - Subtract within 100
+                      - Visually add and subtract within 1,000
+            - Get ready for multiplication and division:
+                  subtopics:
+                      - Adding using arrays
+                      - Even and odd numbers
+            - Get ready for fractions:
+                  subtopics:
+                      - Equal parts of shapes
+                      - Fractions of shapes
+            - Get ready for patterns and problem solving:
+                  subtopics:
+                      - Addition and subtraction word problems (1-step)
+                      - Addition and subtraction word problems (2-step)
+            - Get ready for area and perimeter:
+                  subtopics:
+                      - Measure length
+                      - Partition rectangles
+            - Get ready for data:
+                  subtopics:
+                      - Picture graphs
+                      - Bar graphs
+                      - Line plots

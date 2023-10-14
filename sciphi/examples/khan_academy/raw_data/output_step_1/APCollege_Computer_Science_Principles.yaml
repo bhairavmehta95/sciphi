@@ -1,0 +1,45 @@
+course:
+    AP®︎/College Computer Science Principles::
+        topics:
+            - Introduction to Computer Science Principles:
+                  subtopics:
+                      - Overview of Computer Science
+                      - Importance of Computer Science
+                      - Basic Terminology
+                      - Computer Science in Everyday Life
+                      - Future of Computer Science
+            - Programming Fundamentals:
+                  subtopics:
+                      - Variables and Data Types
+                      - Control Structures
+                      - Functions and Procedures
+                      - Error Handling
+                      - Debugging Techniques
+            - Data Structures and Algorithms:
+                  subtopics:
+                      - Arrays and Lists
+                      - Trees and Graphs
+                      - Sorting Algorithms
+                      - Searching Algorithms
+                      - Time Complexity and Big O Notation
+            - Computer Systems and Networks:
+                  subtopics:
+                      - Computer Hardware
+                      - Operating Systems
+                      - Network Protocols
+                      - Internet and Web Technologies
+                      - Cloud Computing
+            - Software Development and Testing:
+                  subtopics:
+                      - Software Development Life Cycle
+                      - Agile Methodology
+                      - Unit Testing
+                      - Integration Testing
+                      - Software Maintenance
+            - Online Data Security:
+                  subtopics:
+                      - Introduction to Online Data Security
+                      - PII (Personally Identifiable Information)
+                      - Encryption and Decryption
+                      - Firewalls and VPNs
+                      - Ethical Hacking

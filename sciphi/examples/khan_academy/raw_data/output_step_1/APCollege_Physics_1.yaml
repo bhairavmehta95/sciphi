@@ -1,0 +1,59 @@
+course:
+    AP®︎/College Physics 1::
+        topics:
+            - Kinematics:
+                  subtopics:
+                      - Displacement, Velocity, and Time
+                      - Acceleration
+                      - Motion in One Dimension
+                      - Motion in Two Dimensions
+                      - Projectile Motion
+                      - Relative Velocity and Relative Motion
+            - Newton's Laws of Motion:
+                  subtopics:
+                      - Newton's First Law
+                      - Newton's Second Law
+                      - Newton's Third Law
+                      - Friction
+                      - Circular Motion
+                      - Work and Energy
+            - Conservation of Energy:
+                  subtopics:
+                      - Work and Work-Energy Theorem
+                      - Kinetic Energy and Potential Energy
+                      - Conservation of Mechanical Energy
+                      - Power
+                      - Work done by a Variable Force
+                      - Elastic and Inelastic Collisions
+            - Linear Momentum and Collisions:
+                  subtopics:
+                      - Momentum and Impulse
+                      - Conservation of Momentum
+                      - Collisions in One Dimension
+                      - Collisions in Two Dimensions
+                      - Center of Mass
+                      - Rocket Propulsion
+            - Rotational Motion and Angular Momentum:
+                  subtopics:
+                      - Angular Displacement, Velocity, and Acceleration
+                      - Rotational Kinematics
+                      - Torque and Moment of Inertia
+                      - Angular Momentum and Its Conservation
+                      - Rolling Motion and Gyroscopes
+                      - Centripetal Force and Banked Curves
+            - Gravitation:
+                  subtopics:
+                      - Newton's Law of Gravitation
+                      - Gravitational Potential Energy
+                      - Orbits of Planets and Satellites
+                      - Kepler's Laws
+                      - Gravitational Fields and Forces
+                      - Tides and Gravitational Waves
+            - Oscillations and Waves:
+                  subtopics:
+                      - Simple Harmonic Motion
+                      - Energy in Simple Harmonic Motion
+                      - Damped Harmonic Motion
+                      - Forced Oscillations and Resonance
+                      - Wave Motion
+                      - Superposition and Standing Waves

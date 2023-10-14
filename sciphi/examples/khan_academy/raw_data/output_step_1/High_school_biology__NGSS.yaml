@@ -1,0 +1,48 @@
+course:
+    High school biology - NGSS:
+        topics:
+            - Genes, cells, and organisms:
+                  subtopics:
+                      - Cell specialization
+                      - Genes, proteins, and cells
+                      - Organization of multicellular organisms
+            - Growth and feedback in organisms:
+                  subtopics:
+                      - Cell division and organism growth
+                      - Feedback in living systems
+            - Matter and energy in organisms:
+                  subtopics:
+                      - Photosynthesis
+                      - Formation of biomolecules
+                      - Cellular respiration
+            - Matter and energy in ecosystems:
+                  subtopics:
+                      - Population growth and carrying capacity
+                      - Flow of energy and cycling of matter in ecosystems
+                      - The carbon cycle
+            - Interactions in ecosystems:
+                  subtopics:
+                      - Ecosystem resilience and change
+                      - Human impacts on ecosystems
+            - Inheritance and variation:
+                  subtopics:
+                      - Gene expression and regulation
+                      - Sources of genetic variation
+                      - Genes, traits, and the environment
+            - Evolution and natural selection:
+                  subtopics:
+                      - Evidence of common ancestry
+                      - Natural selection
+                      - Natural selection and evolution
+                      - Evolution of group behavior
+            - Adaptation and environmental change:
+                  subtopics:
+                      - Natural selection and adaptation
+                      - Adaptation and environmental change
+                      - Species and the environment
+                      - Extinction
+            - Biodiversity and human impacts:
+                  subtopics:
+                      - Humans and biodiversity
+                      - Sustainability and natural resource management
+                      - Science, technology, and the environment

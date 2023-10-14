@@ -1,0 +1,49 @@
+course:
+    Middle school biology - NGSSNEW:
+        topics:
+            - Cells and organisms:
+                  subtopics:
+                      - Cells and organisms
+                      - Cell parts and functions
+                      - Organization in the human body
+                      - Sensory processing and the brain
+            - Organism growth and reproduction:
+                  subtopics:
+                      - Sexual and asexual reproduction
+                      - Animal behavior and offspring success
+                      - Plant reproductive success
+                      - Organism growth and the environment
+            - Matter and energy in organisms:
+                  subtopics:
+                      - Photosynthesis in organisms
+                      - Food and energy in organisms
+            - Interactions in ecosystems:
+                  subtopics:
+                      - Resources and population growth
+                      - Ecological interactions
+            - Matter and energy in ecosystems:
+                  subtopics:
+                      - Photosynthesis in ecosystems
+                      - Matter and energy in foodwebs
+            - Ecosystems and biodiversity:
+                  subtopics:
+                      - Ecosystem dynamics
+                      - Biodiversity and ecosystem health
+                      - Humans and ecosystems
+            - Inheritance and variation:
+                  subtopics:
+                      - Chromosomes
+                      - Genes, proteins, and traits
+                      - Mutations
+                      - Reproduction and genetic variation
+            - Evolution:
+                  subtopics:
+                      - Evolution and common ancestry
+                      - The fossil record
+                      - Evidence of evolution: anatomy
+                      - Evidence of evolution: embryology
+            - Natural and artificial selection:
+                  subtopics:
+                      - Natural selection
+                      - Adaptation and environmental change
+                      - Artificial selection

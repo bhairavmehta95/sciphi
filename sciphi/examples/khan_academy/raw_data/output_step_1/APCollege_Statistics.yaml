@@ -1,0 +1,92 @@
+course:
+  AP®︎/College Statistics::
+    topics:
+    - Exploring categorical data:
+        subtopics:
+        - The language of variation: Variables
+        - Representing a categorical variable with graphs
+        - Representing two categorical variables
+        - Statistics for two categorical variables
+    - Exploring one-variable quantitative data: Displaying and describing:
+        subtopics:
+        - Representing a quantitative variable with dot plots
+        - Representing a quantitative variable with histograms and stem plots
+        - Describing the distribution of a quantitative variable
+        - Comparing distributions of a quantitative variable
+    - Exploring one-variable quantitative data: Summary statistics:
+        subtopics:
+        - Measuring center in quantitative data
+        - Measuring variability in quantitative data
+        - Effects of linear transformations
+        - More on standard deviation (optional)
+        - Graphical representations of summary statistics
+    - Exploring one-variable quantitative data: Percentiles, z-scores, and the normal distribution:
+        subtopics:
+        - Percentiles
+        - Z-scores
+        - Density curves
+        - Normal distributions and the empirical rule
+        - Normal distribution calculations
+    - Exploring two-variable quantitative data:
+        subtopics:
+        - Representing the relationship between two quantitative variables
+        - Correlation
+        - Residuals
+        - Least-squares regression
+    - Collecting data:
+        subtopics:
+        - Introduction to planning a study
+        - Potential problems with sampling
+        - Random sampling and data collection
+        - Introduction to experimental design
+        - Inference and experiments
+    - Probability:
+        subtopics:
+        - Estimating probabilities using simulation
+        - Mutually exclusive events and unions of events
+        - Conditional probability
+        - Independent versus dependent events and the multiplication rule
+    - Random variables and probability distributions:
+        subtopics:
+        - Introduction to random variables and probability distributions
+        - Mean and standard deviation of random variables
+        - Transforming random variables
+        - Combining random variables
+        - Introduction to the binomial distribution
+        - Parameters for a binomial distribution
+        - The geometric distribution
+    - Sampling distributions:
+        subtopics:
+        - The normal distribution, revisited
+        - The central limit theorem
+        - Biased and unbiased point estimates
+        - Sampling distributions for sample proportions
+        - Sampling distributions for differences in sample proportions
+        - Sampling distributions for sample means
+        - Sampling distributions for differences in sample means
+    - Inference for categorical data: Proportions:
+        subtopics:
+        - Introduction to confidence intervals
+        - Confidence intervals for proportions
+        - The idea of significance tests
+        - Setting up a test for a population proportion
+        - Carrying out a test for a population proportion
+        - Concluding a test for a population proportion
+        - Potential errors when performing tests
+        - Confidence intervals for the difference of two proportions
+        - Testing for the difference of two population proportions
+    - Inference for quantitative data: Means:
+        subtopics:
+        - Constructing a confidence interval for a population mean
+        - Setting up a test for a population mean
+        - Carrying out a test for a population mean
+        - Confidence intervals for the difference of two means
+        - Testing for the difference of two population means
+    - Inference for categorical data: Chi-square:
+        subtopics:
+        - Chi-square test for goodness of fit
+        - Chi square tests for relationships (homogeneity or independence)
+    - Inference for quantitative data: slopes:
+        subtopics:
+        - Confidence intervals for the slope of a regression model
+        - Testing for the slope of a regression model

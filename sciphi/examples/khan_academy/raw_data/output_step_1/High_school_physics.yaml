@@ -1,0 +1,88 @@
+course:
+    High school physics::
+        topics:
+            - One-dimensional motion:
+                  subtopics:
+                      - Physics foundations
+                      - Distance, displacement, and coordinate systems
+                      - Average velocity and average speed
+                      - Velocity and speed from graphs
+                      - Average and instantaneous acceleration
+                      - Motion with constant acceleration
+                      - Objects in freefall
+            - Forces and Newton's laws of motion:
+                  subtopics:
+                      - Introduction to forces and free body diagrams
+                      - Newton's first law: Mass and inertia
+                      - Newton's second law
+                      - Newton's third law
+            - Two-dimensional motion:
+                  subtopics:
+                      - Analyzing vectors using trigonometry
+                      - Graphs of projectile motion
+                      - Horizontally launched projectiles
+                      - Projectiles launched at an angle
+                      - Angled forces
+                      - Inclined planes
+                      - Friction
+            - Uniform circular motion and gravitation:
+                  subtopics:
+                      - Uniform circular motion introduction
+                      - Centripetal acceleration
+                      - Centripetal forces
+                      - Newton's law of gravitation
+            - Work and energy:
+                  subtopics:
+                      - Introduction to work
+                      - Work-energy theorem
+                      - Spring potential energy and Hooke's law
+                      - Gravitational potential energy and conservative forces
+                      - Conservation of energy
+                      - Power
+            - Linear momentum and collisions:
+                  subtopics:
+                      - Introduction to linear momentum and impulse
+                      - Inelastic collisions
+                      - Center of mass and two-dimensional collisions
+            - Torque and angular momentum:
+                  subtopics:
+                      - Introduction to rotational motion
+                      - Angular kinematics
+                      - Torque and equilibrium
+                      - Rotational inertia and angular second law
+                      - Rotational kinetic energy
+                      - Angular momentum and angular impulse
+                      - Conservation of angular momentum
+                      - Gravitational potential energy at large distances
+            - Simple harmonic motion:
+                  subtopics:
+                      - Introduction to simple harmonic motion
+                      - Simple harmonic motion in spring-mass systems
+                      - Simple pendulums
+                      - Energy in simple harmonic oscillators
+            - Waves:
+                  subtopics:
+                      - Introduction to waves
+                      - Wave characteristics
+                      - Standing waves
+                      - Wave interference
+            - Sound:
+                  subtopics:
+                      - Introduction to sound
+                      - Standing sound waves
+                      - Beats and interference of sound waves
+                      - Doppler effect
+            - Static electricity:
+                  subtopics:
+                      - Electric charge
+                      - Conservation of charge
+                      - Coulomb's law and electric force
+                      - Explore electrostatics
+            - DC Circuits:
+                  subtopics:
+                      - Electric current, resistivity, and Ohm's law
+                      - Electric power and DC circuits
+                      - Series and parallel resistors
+                      - DC Ammeters and voltmeters
+                      - Discovery of resistors
+                      - Explore electric motors

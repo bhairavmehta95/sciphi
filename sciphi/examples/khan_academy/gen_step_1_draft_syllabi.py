@@ -176,6 +176,8 @@ class DraftSyllabiYAMLRunner:
                             f"Skipping {dump_name} because it was already created..."
                         )
                         continue
+                    else:
+                        logging.info(f"Generating {dump_name} TOC")
 
                     formatted_prompt = self.prompt.format(
                         course_name=course_name,

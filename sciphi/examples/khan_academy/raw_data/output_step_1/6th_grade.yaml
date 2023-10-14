@@ -1,0 +1,94 @@
+course:
+    6th grade::
+        topics:
+            - Ratios:
+                  subtopics:
+                      - Intro to ratios
+                      - Visualize equivalent ratios
+                      - Ratio application
+            - Arithmetic with rational numbers:
+                  subtopics:
+                      - Adding decimals
+                      - Subtracting decimals
+                      - Adding and subtracting decimals word problems
+                      - Dividing fractions and whole numbers
+                      - Dividing fractions by fractions
+                      - Multiplying decimals
+                      - Dividing whole numbers
+                      - Dividing decimals
+            - Rates and percentages:
+                  subtopics:
+                      - Intro to rates
+                      - Intro to percents
+                      - Visualize percents
+                      - Equivalent representations of percent problems
+                      - Percent problems
+                      - Percent word problems
+            - Exponents and order of operations:
+                  subtopics:
+                      - Meaning of exponents
+                      - Powers of whole numbers
+                      - Powers of fractions and decimals
+                      - Order of operations introduction
+                      - More on order of operations
+            - Negative numbers:
+                  subtopics:
+                      - Intro to negative numbers
+                      - Negative symbol as opposite
+                      - Rational numbers on the number line
+                      - Comparing negative numbers
+                      - Ordering rational numbers
+                      - Intro to absolute value
+                      - Comparing absolute values
+            - Variables & expressions:
+                  subtopics:
+                      - Parts of algebraic expressions
+                      - Substitution & evaluating expressions
+                      - Evaluating expressions with multiple variables
+                      - Expression value intuition
+                      - Evaluating expressions word problems
+                      - Writing algebraic expressions introduction
+                      - Writing basic algebraic expressions word problems
+                      - Least common multiple
+                      - Greatest common factor
+                      - Distributive property with variables
+                      - Combining like terms
+                      - Equivalent expressions
+            - Equations & inequalities:
+                  subtopics:
+                      - Algebraic equations basics
+                      - One-step equations intuition
+                      - One-step addition & subtraction equations
+                      - One-step multiplication and division equations
+                      - Finding mistakes in one-step equations
+                      - One-step equation word problems
+                      - Intro to inequalities with variables
+                      - Dependent and independent variables
+                      - Analyzing relationships between variables
+            - Plane figures:
+                  subtopics:
+                      - Areas of parallelograms
+                      - Areas of triangles
+                      - Area of composite figures
+            - Coordinate plane:
+                  subtopics:
+                      - Four quadrants
+                      - Distance on the coordinate plane
+                      - Polygons on the coordinate plane
+            - 3D figures:
+                  subtopics:
+                      - Geometric solids (3D shapes)
+                      - Volume with fractions
+                      - Nets of 3D figures
+            - Data and statistics:
+                  subtopics:
+                      - Statistical questions
+                      - Dot plots & frequency tables
+                      - Histograms
+                      - Mean and median
+                      - Mean and median challenge problems
+                      - Interquartile range (IQR)
+                      - Box plots
+                      - Mean absolute deviation (MAD)
+                      - Comparing data displays
+                      - Shape of data distributions

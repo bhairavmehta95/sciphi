@@ -1,0 +1,3 @@
+Limits and continuity
+Working with the intermediate value theorem
+Applying the intermediate value theorem

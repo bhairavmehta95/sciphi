@@ -1,0 +1,92 @@
+course:
+  AP®︎/College Calculus AB::
+    topics:
+    - Limits and continuity:
+        subtopics:
+        - Defining limits and using limit notation
+        - Estimating limit values from graphs
+        - Estimating limit values from tables
+        - Determining limits using algebraic properties of limits
+        - Determining limits using the squeeze theorem
+        - Exploring types of discontinuities
+        - Defining continuity at a point
+        - Confirming continuity over an interval
+        - Connecting infinite limits and vertical asymptotes
+        - Connecting limits at infinity and horizontal asymptotes
+        - Working with the intermediate value theorem
+    - Differentiation: definition and basic derivative rules:
+        subtopics:
+        - Defining average and instantaneous rates of change at a point
+        - Defining the derivative of a function and using derivative notation
+        - Estimating derivatives of a function at a point
+        - Applying the power rule
+        - Derivative rules: constant, sum, difference, and constant multiple
+        - Derivatives of cos(x), sin(x), \U0001D452ˣ, and ln(x)
+        - The product rule
+        - The quotient rule
+        - Finding the derivatives of tangent, cotangent, secant, and/or cosecant\
+          \ functions
+    - Differentiation: composite, implicit, and inverse functions:
+        subtopics:
+        - The chain rule
+        - Implicit differentiation
+        - Differentiating inverse functions
+        - Differentiating inverse trigonometric functions
+        - Selecting procedures for calculating derivatives
+        - Calculating higher-order derivatives
+    - Contextual applications of differentiation:
+        subtopics:
+        - Interpreting the meaning of the derivative in context
+        - Straight-line motion: connecting position, velocity, and acceleration
+        - Rates of change in other applied contexts
+        - Introduction to related rates
+        - Approximating values of a function using local linearity and linearization
+        - Using L’Hôpital’s rule for finding limits of indeterminate forms
+    - Applying derivatives to analyze functions:
+        subtopics:
+        - Using the mean value theorem
+        - Extreme value theorem, global versus local extrema, and critical points
+        - Determining intervals on which a function is increasing or decreasing
+        - Using the first derivative test to find relative (local) extrema
+        - Using the candidates test to find absolute (global) extrema
+        - Determining concavity of intervals and finding points of inflection
+        - Using the second derivative test to find extrema
+        - Sketching curves of functions and their derivatives
+        - Connecting a function, its first derivative, and its second derivative
+        - Solving optimization problems
+    - Integration and accumulation of change:
+        subtopics:
+        - Exploring accumulations of change
+        - Approximating areas with Riemann sums
+        - The fundamental theorem of calculus and accumulation functions
+        - Interpreting the behavior of accumulation functions involving area
+        - Applying properties of definite integrals
+        - Finding antiderivatives and indefinite integrals: basic rules and notation
+        - Integrating using substitution
+        - Integrating functions using long division and completing the square
+    - Differential equations:
+        subtopics:
+        - Modeling situations with differential equations
+        - Verifying solutions for differential equations
+        - Sketching slope fields
+        - Reasoning using slope fields
+        - Finding general solutions using separation of variables
+        - Finding particular solutions using initial conditions and separation of\
+          \ variables
+        - Exponential models with differential equations
+    - Applications of integration:
+        subtopics:
+        - Finding the average value of a function on an interval
+        - Connecting position, velocity, and acceleration functions using integrals
+        - Using accumulation functions and definite integrals in applied contexts
+        - Finding the area between curves expressed as functions of x
+        - Finding the area between curves expressed as functions of y
+        - Volumes with cross sections: squares and rectangles
+        - Volumes with cross sections: triangles and semicircles
+        - Volume with disc method: revolving around x- or y-axis
+        - Volume with washer method: revolving around x- or y-axis
+    - AP Calculus AB solved free response questions from past exams:
+        subtopics:
+        - AP Calculus AB 2017 free response
+        - AP Calculus AB 2015 free response
+        - AP Calculus AB 2011 free response

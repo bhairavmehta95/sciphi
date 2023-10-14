@@ -1,0 +1,3 @@
+Advanced regression (inference and transforming)
+Nonlinear regression
+Interpreting nonlinear regression analysis

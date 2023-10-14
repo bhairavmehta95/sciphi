@@ -1,0 +1,57 @@
+course:
+  AP®︎/College Macroeconomics::
+    topics:
+    - Basic Economics Concepts:
+        subtopics:
+        - Opportunity Cost and the Production Possibilities Curve
+        - Comparative Advantage and the Gains from Trade
+        - Demand
+        - Supply
+        - Market Equilibrium, Disequilibrium, and Changes in Equilibrium
+    - Economic Indicators and the Business Cycle:
+        subtopics:
+        - The Circular Flow and GDP
+        - Limitations of GDP
+        - Unemployment
+        - Price Indices and Inflation
+        - Costs of Inflation
+        - Real vs. Nominal GDP
+        - Business Cycles
+    - National Income and Price Determination:
+        subtopics:
+        - Aggregate Demand
+        - Multipliers
+        - Short-run Aggregate Supply
+        - Long-run Aggregate Supply
+        - Equilibrium in the AD-AS Model
+        - Changes in the AD-AS Model in the Short Run
+        - Long Run Self-adjustment
+        - Fiscal Policy
+        - Automatic Stabilizers
+    - Financial Sector:
+        subtopics:
+        - Financial Assets
+        - Nominal vs. Real Interest Rates
+        - Definition, Measurement, and Functions of Money
+        - Banking and the Expansion of the Money Supply
+        - The Money Market
+        - Monetary Policy
+        - The Market for Loanable Funds
+    - Long-run Consequences of Stabilization Policies:
+        subtopics:
+        - Fiscal and Monetary Policy Actions in the Short Run
+        - The Phillips Curve
+        - Money Growth and Inflation
+        - Crowding Out
+        - Deficits and Debts
+        - Economic Growth
+        - Public Policy and Economic Growth
+    - Open Economy: International Trade and Finance:
+        subtopics:
+        - The Balance of Payments
+        - Exchange Rates
+        - The Foreign Exchange Market
+        - Effect of Changes in Policies and Economic Conditions on the Foreign Exchange\
+          \ Market
+        - Changes in the Foreign Exchange Markets and Net Exports
+        - Real Interest Rates and International Capital Flows

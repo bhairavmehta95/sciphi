@@ -1,0 +1,102 @@
+course:
+  Integrated math 2::
+    topics:
+    - Absolute value & piecewise functions:
+        subtopics:
+        - Graphs of absolute value functions
+        - Piecewise functions
+    - Quadratics: Multiplying & factoring:
+        subtopics:
+        - Multiplying monomials by polynomials
+        - Multiplying binomials
+        - Special products of binomials
+        - Introduction to factoring
+        - Factoring quadratics intro
+        - Factoring quadratics by grouping
+        - Factoring quadratics with difference of squares
+        - Factoring quadratics with perfect squares
+        - Strategy in factoring quadratics
+    - Quadratic functions & equations:
+        subtopics:
+        - Intro to parabolas
+        - Solving and graphing with factored form
+        - Solving by taking the square root
+        - Vertex form
+        - Solving quadratics by factoring
+        - The quadratic formula
+        - Completing the square
+        - Strategizing to solve quadratic equations
+        - Quadratics standard form
+        - Features & forms of quadratic functions
+        - Comparing quadratic functions
+        - Transforming quadratic functions
+    - Irrational numbers:
+        subtopics:
+        - Irrational numbers
+        - Sums & products of rational/irrational numbers
+        - Proofs concerning irrational numbers
+    - Complex numbers:
+        subtopics:
+        - The imaginary unit i
+        - Complex numbers introduction
+        - The complex plane
+        - Adding & subtracting complex numbers
+        - Quadratic equations with complex solutions
+    - Rational exponents and radicals:
+        subtopics:
+        - Rational exponents
+        - Properties of exponents (rational exponents)
+        - Equivalent forms of exponential expressions
+        - Evaluating exponents and radicals
+        - Solving exponential expressions using properties of exponents
+    - Exponential models:
+        subtopics:
+        - Interpreting the rate of change of exponential models
+        - Constructing exponential models according to rate of change
+        - Advanced interpretation of exponential models
+    - Similarity:
+        subtopics:
+        - Introduction to triangle similarity
+        - Angle bisector theorem
+        - Solving problems with similar & congruent triangles
+        - Proving relationships using similarity
+        - Solving modeling problems with similar & congruent triangles
+    - Right triangles & trigonometry:
+        subtopics:
+        - Pythagorean theorem proofs
+        - Special right triangles
+        - Introduction to the trigonometric ratios
+        - Sine & cosine of complementary angles
+        - Modeling with right triangles
+    - Solid geometry:
+        subtopics:
+        - Volume and surface area
+        - Density
+    - Circles:
+        subtopics:
+        - Arc measure
+        - Arc length (from degrees)
+        - Introduction to radians
+        - Arc length (from radians)
+        - Sectors
+        - Inscribed angles
+        - Inscribed shapes problem solving
+        - Proofs with inscribed shapes
+        - Properties of tangents
+        - Constructing regular polygons inscribed in circles
+        - Constructing circumcircles & incircles
+        - Constructing a line tangent to a circle
+    - Conic sections:
+        subtopics:
+        - Features of a circle
+        - Standard equation of a circle
+        - Expanded equation of a circle
+        - Focus & directrix of a parabola
+    - Probability:
+        subtopics:
+        - Probability basics
+        - Counting with combinations
+        - Probability with counting, permutations, combinations
+        - Multiplication rule for independent events
+        - Multiplication rule for dependent events
+        - Addition rule for probability

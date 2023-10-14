@@ -1,0 +1,30 @@
+course:
+    Middle school physics - NGSSNEW:
+        topics:
+            - Waves: Unit test:
+                  subtopics:
+                      - Introduction video
+                      - Learn more
+            - Unit 1: Movement and forces:
+                  subtopics:
+                      - Representing motion
+                      - Forces and acceleration
+                      - Action and reaction forces
+            - Unit 2: Forces at a distance:
+                  subtopics:
+                      - Gravitational forces
+                      - Electric forces
+                      - Magnetic forces
+                      - Fields
+                      - Electromagnetism
+            - Unit 3: Energy:
+                  subtopics:
+                      - Kinetic energy
+                      - Potential energy
+            - Unit 4: Waves:
+                  subtopics:
+                      - Wave properties
+                      - Mechanical waves and light
+                      - Transmission and refraction
+                      - Absorption and reflection
+                      - Digital signals

@@ -1,0 +1,127 @@
+course:
+  AP®︎/College Calculus BC::
+    topics:
+    - Limits and continuity:
+        subtopics:
+        - Defining limits and using limit notation
+        - Estimating limit values from graphs
+        - Estimating limit values from tables
+        - Determining limits using algebraic properties of limits
+        - Determining limits using the squeeze theorem
+        - Exploring types of discontinuities
+        - Defining continuity at a point
+        - Confirming continuity over an interval
+        - Connecting infinite limits and vertical asymptotes
+        - Connecting limits at infinity and horizontal asymptotes
+        - Working with the intermediate value theorem
+    - Differentiation: definition and basic derivative rules:
+        subtopics:
+        - Defining average and instantaneous rates of change at a point
+        - Defining the derivative of a function and using derivative notation
+        - Estimating derivatives of a function at a point
+        - Applying the power rule
+        - Derivative rules: constant, sum, difference, and constant multiple
+        - Derivatives of cos(x), sin(x), \U0001D452ˣ, and ln(x)
+        - The product rule
+        - The quotient rule
+        - Finding the derivatives of tangent, cotangent, secant, and/or cosecant\
+          \ functions
+    - Differentiation: composite, implicit, and inverse functions:
+        subtopics:
+        - The chain rule
+        - Implicit differentiation
+        - Differentiating inverse functions
+        - Differentiating inverse trigonometric functions
+        - Selecting procedures for calculating derivatives
+        - Calculating higher-order derivatives
+    - Contextual applications of differentiation:
+        subtopics:
+        - Interpreting the meaning of the derivative in context
+        - Straight-line motion: connecting position, velocity, and acceleration
+        - Rates of change in other applied contexts
+        - Introduction to related rates
+        - Approximating values of a function using local linearity and linearization
+        - Using L’Hôpital’s rule for finding limits of indeterminate forms
+    - Applying derivatives to analyze functions:
+        subtopics:
+        - Using the mean value theorem
+        - Extreme value theorem, global versus local extrema, and critical points
+        - Determining intervals on which a function is increasing or decreasing
+        - Using the first derivative test to find relative (local) extrema
+        - Using the candidates test to find absolute (global) extrema
+        - Determining concavity of intervals and finding points of inflection
+        - Using the second derivative test to find extrema
+        - Sketching curves of functions and their derivatives
+        - Connecting a function, its first derivative, and its second derivative
+        - Solving optimization problems
+        - Exploring behaviors of implicit relations
+    - Integration and accumulation of change:
+        subtopics:
+        - Exploring accumulations of change
+        - Approximating areas with Riemann sums
+        - The fundamental theorem of calculus and accumulation functions
+        - Applying properties of definite integrals
+        - Finding antiderivatives and indefinite integrals: basic rules and notation
+        - Integrating using substitution
+        - Integrating functions using long division and completing the square
+        - Using integration by parts
+        - Integrating using linear partial fractions
+        - Evaluating improper integrals
+    - Differential equations:
+        subtopics:
+        - Modeling situations with differential equations
+        - Verifying solutions for differential equations
+        - Sketching slope fields
+        - Reasoning using slope fields
+        - Approximating solutions using Euler’s method
+        - Finding general solutions using separation of variables
+        - Finding particular solutions using initial conditions and separation of\
+          \ variables
+        - Exponential models with differential equations
+        - Logistic models with differential equations
+    - Applications of integration:
+        subtopics:
+        - Finding the average value of a function on an interval
+        - Connecting position, velocity, and acceleration functions using integrals
+        - Using accumulation functions and definite integrals in applied contexts
+        - Finding the area between curves expressed as functions of x
+        - Finding the area between curves expressed as functions of y
+        - Volumes with cross sections: squares and rectangles
+        - Volumes with cross sections: triangles and semicircles
+        - Volume with disc method: revolving around x- or y-axis
+        - Volume with washer method: revolving around x- or y-axis
+        - The arc length of a smooth, planar curve and distance traveled
+    - Parametric equations, polar coordinates, and vector-valued functions:
+        subtopics:
+        - Defining and differentiating parametric equations
+        - Second derivatives of parametric equations
+        - Finding arc lengths of curves given by parametric equations
+        - Defining and differentiating vector-valued functions
+        - Solving motion problems using parametric and vector-valued functions
+        - Defining polar coordinates and differentiating in polar form
+        - Finding the area of a polar region or the area bounded by a single polar\
+          \ curve
+        - Finding the area of the region bounded by two polar curves
+    - Infinite sequences and series:
+        subtopics:
+        - Defining convergent and divergent infinite series
+        - Working with geometric series
+        - The nth-term test for divergence
+        - Integral test for convergence
+        - Harmonic series and p-series
+        - Comparison tests for convergence
+        - Alternating series test for convergence
+        - Ratio test for convergence
+        - Determining absolute or conditional convergence
+        - Alternating series error bound
+        - Finding Taylor polynomial approximations of functions
+        - Lagrange error bound
+        - Radius and interval of convergence of power series
+        - Finding Taylor or Maclaurin series for a function
+        - Representing functions as power series
+    - AP Calculus BC solved exams:
+        subtopics:
+        - AP Calculus BC 2017
+        - AP Calculus BC 2015
+        - AP Calculus BC 2011
+        - AP Calculus BC 2008

@@ -1,0 +1,104 @@
+course:
+    Statistics & probability::
+        topics:
+            - Analyzing categorical data:
+                  subtopics:
+                      - Analyzing one categorical variable
+                      - Two-way tables
+                      - Distributions in two-way tables
+            - Displaying and comparing quantitative data:
+                  subtopics:
+                      - Displaying quantitative data with graphs
+                      - Describing and comparing distributions
+                      - More on data displays
+            - Summarizing quantitative data:
+                  subtopics:
+                      - Measuring center in quantitative data
+                      - Interquartile range (IQR)
+                      - Variance and standard deviation of a population
+                      - Variance and standard deviation of a sample
+                      - More on standard deviation
+                      - Box and whisker plots
+                      - Other measures of spread
+            - Modeling data distributions:
+                  subtopics:
+                      - Percentiles
+                      - Z-scores
+                      - Effects of linear transformations
+                      - Density curves
+                      - Normal distributions and the empirical rule
+                      - Normal distribution calculations
+                      - More on normal distributions
+            - Exploring bivariate numerical data:
+                  subtopics:
+                      - Introduction to scatterplots
+                      - Correlation coefficients
+                      - Introduction to trend lines
+                      - Least-squares regression equations
+                      - Assessing the fit in least-squares regression
+                      - More on regression
+            - Study design:
+                  subtopics:
+                      - Statistical questions
+                      - Sampling and observational studies
+                      - Sampling methods
+                      - Types of studies (experimental vs. observational)
+                      - Experiments
+            - Probability:
+                  subtopics:
+                      - Basic theoretical probability
+                      - Probability using sample spaces
+                      - Basic set operations
+                      - Experimental probability
+                      - Randomness, probability, and simulation
+                      - Addition rule
+                      - Multiplication rule for independent events
+                      - Multiplication rule for dependent events
+                      - Conditional probability and independence
+            - Counting, permutations, and combinations:
+                  subtopics:
+                      - Counting principle and factorial
+                      - Permutations
+                      - Combinations
+                      - Combinatorics and probability
+            - Random variables:
+                  subtopics:
+                      - Discrete random variables
+                      - Continuous random variables
+                      - Transforming random variables
+                      - Combining random variables
+                      - Binomial random variables
+                      - Binomial mean and standard deviation formulas
+                      - Geometric random variables
+                      - More on expected value
+                      - Poisson distribution
+            - Sampling distributions:
+                  subtopics:
+                      - What is a sampling distribution?
+                      - Sampling distribution of a sample proportion
+                      - Sampling distribution of a sample mean
+            - Confidence intervals:
+                  subtopics:
+                      - Introduction to confidence intervals
+                      - Estimating a population proportion
+                      - Estimating a population mean
+                      - More confidence interval videos
+            - Significance tests (hypothesis testing):
+                  subtopics:
+                      - The idea of significance tests
+                      - Error probabilities and power
+                      - Tests about a population proportion
+                      - Tests about a population mean
+                      - More significance testing videos
+            - Two-sample inference for the difference between groups:
+                  subtopics:
+                      - Comparing two proportions
+                      - Comparing two means
+            - Inference for categorical data (chi-square tests):
+                  subtopics:
+                      - Chi-square goodness-of-fit tests
+                      - Chi-square tests for relationships
+            - Advanced regression (inference and transforming):
+                  subtopics:
+                      - Inference about slope
+                      - Nonlinear regression

@@ -1,0 +1,93 @@
+course:
+    AP®︎/College Chemistry::
+        topics:
+            - Atomic Structure and Properties:
+                  subtopics:
+                      - Moles and Molar Mass
+                      - Mass Spectrometry of Elements
+                      - Elemental Composition of Pure Substances
+                      - Composition of Mixtures
+                      - Periodic Trends
+                      - Valence Electrons and Ionic Compounds
+                      - Photoelectron Spectroscopy
+            - Molecular and Ionic Compound Structure and Properties:
+                  subtopics:
+                      - Types of Chemical Bonds
+                      - Intramolecular Force and Potential Energy
+                      - Structure of Ionic Solids
+                      - Structure of Metals and Alloys
+                      - Lewis Diagrams
+                      - Resonance and Formal Charge
+                      - VSEPR
+                      - Bond Hybridization
+            - Intermolecular Forces and Properties:
+                  subtopics:
+                      - Intermolecular Forces
+                      - Properties of Solids
+                      - Solids, Liquids, and Gases
+                      - Ideal Gas Law
+                      - Kinetic Molecular Theory
+                      - Deviation from Ideal Gas Law
+                      - Solutions and Mixtures
+                      - Representations of Solutions
+                      - Separation of Solutions and Mixtures Chromatography
+                      - Solubility
+                      - Spectroscopy and the Electromagnetic Spectrum
+                      - Electronic Transitions in Spectroscopy
+                      - Beer–Lambert Law
+            - Chemical Reactions:
+                  subtopics:
+                      - Net Ionic Equations
+                      - Representations of Reactions
+                      - Physical and Chemical Changes
+                      - Introduction to Acid–Base Reactions
+                      - Introduction to Titration
+            - Kinetics:
+                  subtopics:
+                      - Reaction Rates
+                      - Introduction to Rate Law
+                      - Concentration Changes Over Time
+                      - Reaction Mechanisms
+                      - Activation Energy and Reaction Rate
+                      - Catalysis
+            - Thermodynamics:
+                  subtopics:
+                      - Endothermic and Exothermic Processes
+                      - Heat Transfer and Thermal Equilibrium
+                      - Heat Capacity and Calorimetry
+                      - Energy of Phase Changes
+                      - Introduction to Enthalpy of Reaction
+                      - Hess's Law
+                      - Enthalpy of Formation
+                      - Bond Enthalpies
+            - Equilibrium:
+                  subtopics:
+                      - Introduction to Equilibrium
+                      - Equilibrium Constant and Reaction Quotient
+                      - Calculating the Equilibrium Constant
+                      - Magnitude and Properties of the Equilibrium Constant
+                      - Calculating Equilibrium Concentrations
+                      - Using the Reaction Quotient
+                      - Le Châtelier's Principle
+                      - Solubility Equilibria
+            - Acids and Bases:
+                  subtopics:
+                      - Introduction to Acids and Bases
+                      - pH and pOH of Strong Acids and Bases
+                      - Weak Acid and Base Equilibria
+                      - Molecular Structure of Acids and Bases
+                      - Acid–Base Reactions
+                      - Buffers
+                      - Acid–Base Titrations
+            - Applications of Thermodynamics:
+                  subtopics:
+                      - Entropy
+                      - Gibbs Free Energy and Thermodynamic Favorability
+                      - Free Energy of Dissolution
+                      - Thermodynamics vs. Kinetics
+                      - Free Energy and Equilibrium
+                      - Coupled Reactions
+                      - Galvanic (Voltaic) and Electrolytic Cells
+                      - Cell Potential and Free Energy
+                      - Cell Potential Under Nonstandard Conditions
+                      - Electrolysis and Faraday's Law

@@ -113,7 +113,7 @@ class TextbookContentGenerator:
     def __init__(
         self,
         provider="openai",
-        model_name="gpt-4-0613",
+        model_name="gpt-3.5-turbo-0613",
         data_dir=None,
         toc_dir="output_step_4",
         output_dir="output_step_5",
@@ -126,6 +126,7 @@ class TextbookContentGenerator:
         textbook=None,
         log_level="INFO",
         num_threads=None,
+        prompt_kwargs={},
     ) -> None:
         self.provider = provider
         self.model_name = model_name
@@ -146,6 +147,7 @@ class TextbookContentGenerator:
         self.log_level = log_level.upper()
         self.max_related_context_to_sample = max_related_context_to_sample
         self.max_prev_snippet_to_sample = max_prev_snippet_to_sample
+        self.prompt_kwargs = prompt_kwargs
 
         self.num_threads = num_threads or multiprocessing.cpu_count()
 
@@ -206,10 +208,13 @@ class TextbookContentGenerator:
         ) = self.initialize_processing(textbook_output_name)
 
         traversal_generator = traverse_config(yml_config)
+
         prev_chapter_config = None
         current_chapter = None
+
         for counter, elements in enumerate(traversal_generator):
             textbook, chapter, section, subsection = elements
+
             start_flag = self.update_start_flag(
                 chapter,
                 section,
@@ -276,10 +281,10 @@ class TextbookContentGenerator:
             os.makedirs(os.path.dirname(output_path))
         self.logger.info(f"Saving textbook to {output_path}")
         writer = RawDataWriter(output_path)
-        writer.write("# NOTE - THIS TEXTBOOK WAS AI GENERATED\n")
-        writer.write(
-            "This textbook was generated using AI techniques. While it aims to be factual and accurate, please verify any critical information. The content may contain errors, biases or harmful content despite best efforts. Please report any issues.\n"
-        )
+        # writer.write("# NOTE - THIS TEXTBOOK WAS AI GENERATED\n")
+        # writer.write(
+        #     "This textbook was generated using AI techniques. While it aims to be factual and accurate, please verify any critical information. The content may contain errors, biases or harmful content despite best efforts. Please report any issues.\n"
+        # )
         return output_path, writer
 
     def handle_foreword(

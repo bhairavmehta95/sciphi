@@ -1,0 +1,68 @@
+course:
+    8th grade::
+        topics:
+            - Numbers and operations:
+                  subtopics:
+                      - Repeating decimals
+                      - Square roots & cube roots
+                      - Irrational numbers
+                      - Approximating irrational numbers
+                      - Exponents with negative bases
+                      - Exponent properties intro
+                      - Negative exponents
+                      - Exponent properties (integer exponents)
+                      - Working with powers of 10
+                      - Scientific notation intro
+                      - Arithmetic with numbers in scientific notation
+                      - Scientific notation word problems
+            - Solving equations with one unknown:
+                  subtopics:
+                      - Equations with variables on both sides
+                      - Equations with parentheses
+                      - Number of solutions to equations
+                      - Equations word problems
+            - Linear equations and functions:
+                  subtopics:
+                      - Graphing proportional relationships
+                      - Solutions to linear equations
+                      - Intercepts
+                      - Slope
+                      - Intro to slope-intercept form
+                      - Graphing slope-intercept form
+                      - Writing slope-intercept equations
+                      - Functions
+                      - Linear models
+                      - Comparing linear functions
+                      - Constructing linear models for real-world relationships
+                      - Recognizing functions
+                      - Linear and nonlinear functions
+            - Systems of equations:
+                  subtopics:
+                      - Intro to systems of equations
+                      - Solving systems with substitution
+                      - Number of solutions to systems of equations
+                      - Systems of equations word problems
+            - Geometry:
+                  subtopics:
+                      - Angles between intersecting lines
+                      - Triangle angles
+                      - Pythagorean theorem
+                      - Pythagorean theorem application
+                      - Pythagorean theorem and distance between points
+                      - Pythagorean theorem proofs
+                      - Volume
+            - Geometric transformations:
+                  subtopics:
+                      - Transformations intro
+                      - Translations
+                      - Rotations
+                      - Reflections
+                      - Properties & definitions of transformations
+                      - Dilations
+                      - Congruence and similarity
+            - Data and modeling:
+                  subtopics:
+                      - Introduction to scatter plots
+                      - Interpreting scatter plots
+                      - Estimating lines of best fit
+                      - Two-way tables

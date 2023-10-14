@@ -1,0 +1,36 @@
+course:
+    Trigonometry::
+        topics:
+            - Right triangles & trigonometry:
+                  subtopics:
+                      - Introduction to the trigonometric ratios
+                      - Solving for a side in a right triangle using the trigonometric ratios
+                      - Sine and cosine of complementary angles
+                      - Modeling with right triangles
+            - Trigonometric functions:
+                  subtopics:
+                      - Unit circle introduction
+                      - Radians
+                      - The Pythagorean identity
+                      - Special trigonometric values in the first quadrant
+                      - Trigonometric values on the unit circle
+                      - Graphs of sin(x), cos(x), and tan(x)
+                      - Amplitude, midline, and period
+                      - Transforming sinusoidal graphs
+                      - Graphing sinusoidal functions
+                      - Sinusoidal models
+                      - Long live Tau
+            - Non-right triangles & trigonometry:
+                  subtopics:
+                      - Law of sines
+                      - Law of cosines
+                      - Solving general triangles
+            - Trigonometric equations and identities:
+                  subtopics:
+                      - Inverse trigonometric functions
+                      - Sinusoidal equations
+                      - Sinusoidal models
+                      - Angle addition identities
+                      - Using trigonometric identities
+                      - Challenging trigonometry problems
+                      - The reciprocal trigonometric ratios

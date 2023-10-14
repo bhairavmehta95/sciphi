@@ -109,6 +109,7 @@ class Scraper:
                 or "prep" in course["href"]
                 or "college-careers-more" in course["href"]
                 or "partner-content" in course["href"]
+                or "math" not in course["href"]
             ):
                 continue
 

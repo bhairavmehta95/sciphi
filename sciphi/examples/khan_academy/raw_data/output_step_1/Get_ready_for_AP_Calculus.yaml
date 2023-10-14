@@ -1,0 +1,95 @@
+course:
+  Get ready for AP® Calculus::
+    topics:
+    - Get ready for limits and continuity:
+        subtopics:
+        - Evaluating functions
+        - Inputs and outputs of a function
+        - Composing functions
+        - Piecewise functions
+        - Introduction to factoring
+        - Factoring quadratics intro
+        - Factoring quadratics by grouping
+        - Factoring quadratics with difference of squares
+        - Factoring quadratics with perfect squares
+        - Factoring higher degree polynomials
+        - Introduction to the trigonometric ratios
+    - Unit circle introduction:
+        subtopics:
+        - Radians
+        - The Pythagorean identity
+        - Special trigonometric values in the first quadrant
+    - Trigonometric identities on the unit circle:
+        subtopics:
+        - Angle addition identities
+        - Reducing rational expressions to lowest terms
+        - End behavior of rational functions
+        - Discontinuities of rational functions
+        - Multiplying and dividing rational expressions
+    - Get ready for differentiation: definition and basic derivative rules:
+        subtopics:
+        - Intro to slope-intercept form
+        - Writing slope-intercept equations
+        - Point-slope form
+        - Average rate of change
+        - Rational exponents
+        - Properties of exponents
+        - Introduction to logarithms
+    - Get ready for differentiation: composite, implicit, and inverse functions:
+        subtopics:
+        - Composing functions
+        - Linear equations with unknown coefficients
+        - Intro to inverse functions
+        - Invertible functions
+        - Inverse trigonometric functions
+        - Inverse functions in graphs and tables
+        - Verifying inverse functions by composition
+    - Get ready for contextual applications of differentiation:
+        subtopics:
+        - Linear equations word problems
+        - Interpreting function notation
+        - Average rate of change word problems
+        - Modeling with composite functions
+        - Modeling with right triangles
+        - Volume and surface area
+    - Get ready for applying derivatives to analyze functions:
+        subtopics:
+        - Maximum and minimum points
+        - Intervals where a function is positive, negative, increasing, or decreasing
+        - Interpreting features of graphs
+        - Distance formula
+        - Square-root equations
+        - Zeros of polynomials
+        - Positive and negative intervals of polynomials
+    - Get ready for integration and accumulation of change:
+        subtopics:
+        - Completing the square
+        - Dividing quadratics by linear factors
+        - Dividing polynomials by linear factors
+        - Partial fraction expansion
+        - Summation notation
+    - Get ready for applications of integration:
+        subtopics:
+        - Rational equations
+        - Square-root equations
+        - Extraneous solutions
+        - Sinusoidal equations
+        - Manipulating formulas
+        - Solving equations by graphing
+    - Get ready for parametric equations, polar coordinates, and vector-valued functions (BC only):
+        subtopics:
+        - Sectors
+        - Vectors introduction
+        - Vector components
+        - Magnitude of vectors
+        - Scalar multiplication
+        - Direction of vectors
+        - Vector components from magnitude & direction
+    - Get ready for infinite sequences and series (BC only):
+        subtopics:
+        - Arithmetic sequences
+        - Geometric sequences
+        - Summation notation
+        - Arithmetic series
+        - Geometric series
+        - End behavior of rational functions

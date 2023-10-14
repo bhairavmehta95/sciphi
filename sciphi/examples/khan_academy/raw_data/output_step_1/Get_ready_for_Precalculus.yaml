@@ -1,0 +1,62 @@
+course:
+  Get ready for Precalculus::
+    topics:
+    - The imaginary unit i: Get ready for complex numbers:
+        subtopics:
+        - Complex numbers introduction
+        - The complex plane
+        - Adding and subtracting complex numbers
+        - Quadratic equations with complex solutions
+    - Unit 2: Get ready for polynomials:
+        subtopics:
+        - Adding and subtracting polynomials
+        - Multiplying binomials by polynomials
+        - Special products of polynomials
+        - Factoring higher degree polynomials
+        - Factoring using structure
+        - Zeros of polynomials
+        - Dividing polynomials by x
+        - Dividing quadratics by linear factors
+        - Dividing polynomials by linear factors
+    - Unit 3: Get ready for composite and inverse functions:
+        subtopics:
+        - Shifting functions
+        - Reflecting functions
+        - Scaling functions
+        - Identifying function transformations
+        - Intro to domain and range of a function
+        - Intro to inverse functions
+    - Unit circle introduction: Get ready for trigonometry:
+        subtopics:
+        - Radians
+        - The Pythagorean identity
+        - Trigonometric values of special angles
+        - Graphing sinusoidal functions
+        - Sinusoidal models
+    - Unit 5: Get ready for vectors and matrices:
+        subtopics:
+        - Equivalent systems of equations and the elimination method
+        - Dilations
+        - Solving triangles using the trigonometric ratios
+    - Unit 6: Get ready for series:
+        subtopics:
+        - Intro to sequences
+        - Constructing arithmetic sequences
+        - Constructing geometric sequences
+        - Modeling with sequences
+        - General sequences
+        - Geometric series
+    - Unit 7: Get ready for conic sections:
+        subtopics:
+        - Graphs of circles intro
+        - Standard equation of a circle
+        - Expanded equation of a circle
+        - Focus and directrix of a parabola
+    - Unit 8: Get ready for probability and combinatorics:
+        subtopics:
+        - Basic theoretical probability
+        - Probability using sample spaces
+        - Basic set operations
+        - Experimental probability
+        - Randomness, probability, and simulation
+        - Addition rule

@@ -1,0 +1,84 @@
+course:
+    5th grade::
+        topics:
+            - Decimal place value:
+                  subtopics:
+                      - Decimal place value intro
+                      - Decimals on the number line
+                      - Decimals in expanded form
+                      - Decimals in written form
+                      - Decimals in different forms
+                      - Comparing decimals
+                      - Rounding decimals
+            - Add decimals:
+                  subtopics:
+                      - Common fractions and decimals
+                      - Adding decimals intro
+                      - Adding decimals (tenths)
+                      - Adding decimals (hundredths)
+            - Subtract decimals:
+                  subtopics:
+                      - Subtracting decimals intro
+                      - Subtracting decimals (tenths)
+                      - Subtracting decimals (hundredths)
+            - Add and subtract fractions:
+                  subtopics:
+                      - Strategies for adding and subtracting fractions with unlike denominators
+                      - Common denominators
+                      - Adding and subtracting fractions with unlike denominators
+                      - Adding and subtracting mixed numbers with unlike denominators
+                      - Adding and subtracting fractions with unlike denominators word problems
+            - Multi-digit multiplication and division:
+                  subtopics:
+                      - Multi-digit multiplication estimation
+                      - Multi-digit multiplication
+                      - Multi-digit division estimation
+                      - Multi-digit division
+            - Multiply fractions:
+                  subtopics:
+                      - Multiplication as scaling
+                      - Multiplying fractions and whole numbers
+                      - Multiplying fractions
+                      - Multiplying mixed numbers
+                      - Area of rectangles with fraction side lengths
+                      - Multiplying fractions word problems
+            - Divide fractions:
+                  subtopics:
+                      - Fractions as division
+                      - Relate fraction division to fraction multiplication
+            - Multiply decimals:
+                  subtopics:
+                      - Multiplying decimals and whole numbers
+                      - Multiplying decimals strategies
+                      - Multiplying decimals
+            - Divide decimals:
+                  subtopics:
+                      - Estimate to divide decimals
+                      - Divide whole numbers to get a decimal quotient
+                      - Divide decimals by whole numbers
+                      - Divide whole numbers by decimals
+            - Powers of ten:
+                  subtopics:
+                      - Multiplying and dividing whole numbers by 10, 100, and 1000
+                      - Multiplying and dividing decimals by 10, 100, and 1000
+                      - Powers of 10
+                      - Multiplying and dividing with powers of 10
+                      - Comparing decimal place values
+            - Volume:
+                  subtopics:
+                      - Volume with unit cubes
+                      - Volume of rectangular prisms
+                      - Decompose figures to find volume
+                      - Volume word problems
+            - Algebraic thinking:
+                  subtopics:
+                      - Writing expressions
+                      - Number patterns
+            - Line plots:
+                  subtopics:
+                      - Graph data on line plots
+                      - Interpret data on line plots
+            - Properties of shapes:
+                  subtopics:
+                      - Triangles
+                      - Quadrilaterals

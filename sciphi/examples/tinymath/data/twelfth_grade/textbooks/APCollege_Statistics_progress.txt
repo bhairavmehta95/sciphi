@@ -1,0 +1,3 @@
+Inference for Quantitative Data: Slopes
+Testing for the Slope of a Regression Model
+Interpreting Tests for Slopes

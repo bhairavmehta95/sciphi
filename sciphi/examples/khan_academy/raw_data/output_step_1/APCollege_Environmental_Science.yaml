@@ -1,0 +1,49 @@
+course:
+  AP®︎/College Environmental Science::
+    topics:
+    - The living world: ecosystems and biodiversity:
+        subtopics:
+        - Ecosystems and biomes
+        - Biogeochemical cycles
+        - Matter and energy flow
+        - Intro to biodiversity and biogeography
+        - Changes to ecosystems
+    - Populations:
+        subtopics:
+        - Species growth
+        - Population growth
+        - Human populations
+    - Earth systems and resources:
+        subtopics:
+        - Plate tectonics
+        - Earth's climate
+    - Land and water use:
+        subtopics:
+        - Intro to land and water use
+        - Effects of land and water use I
+        - Effect of land and water use II
+        - Intro to sustainable practices
+        - Types of sustainable practices
+    - Energy resources and consumption:
+        subtopics:
+        - Intro to energy resources and consumption
+        - Fuel types and uses II
+        - Energy conservation
+    - Atmospheric pollution:
+        subtopics:
+        - Air pollution
+        - Reducing air pollution
+        - Other atmospheric pollution
+    - Aquatic and terrestrial pollution:
+        subtopics:
+        - Sources of pollution
+        - Types of aquatic and terrestrial pollution
+        - Waste disposal, reduction, and treatment
+        - Pollution and health
+        - Pathogens
+    - Global change:
+        subtopics:
+        - Ozone
+        - Greenhouse effect
+        - Climate change
+        - Human impact on species

@@ -1,0 +1,51 @@
+course:
+    AP®︎/College Microeconomics::
+        topics:
+            - Basic Economic Concepts:
+                  subtopics:
+                      - Resource Allocation and Economic Systems
+                      - Production possibilities curve (PPC)
+                      - Comparative advantage and trade
+                      - Cost-benefit analysis
+                      - Marginal analysis and consumer choice
+            - Supply and Demand:
+                  subtopics:
+                      - Demand
+                      - Supply
+                      - Price elasticity of demand
+                      - Price elasticity of supply
+                      - Other elasticities
+                      - Market equilibrium and consumer and producer surplus
+                      - Disequilibrium and changes in equilibrium
+                      - The effects of government interventions in markets
+                      - International trade and public policy
+            - Production, cost, and the perfect competition model:
+                  subtopics:
+                      - The production function
+                      - Short-run production costs
+                      - Long-run production costs
+                      - Types of profit
+                      - Profit maximization
+                      - Firms’ Short-run Decisions to Produce and Long-Run Decisions to Enter or\
+                        \ Exit a Market
+                      - Perfect competition
+            - Imperfect competition:
+                  subtopics:
+                      - Introduction to imperfect competition
+                      - Monopoly
+                      - Price discrimination
+                      - Monopolistic competition
+                      - Oligopoly and game theory
+            - Factor markets:
+                  subtopics:
+                      - Introduction to factor markets
+                      - Changes in factor demand and supply
+                      - Profit-maximizing behavior in perfectly competitive factor markets
+                      - Monopsonistic markets
+            - Market failure and the role of government:
+                  subtopics:
+                      - Socially efficient and inefficient market outcomes
+                      - Externalities
+                      - Public and private goods
+                      - The effects of government intervention in different market structures
+                      - Inequality

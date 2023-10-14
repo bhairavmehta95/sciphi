@@ -1,0 +1,37 @@
+course:
+    High school physics - NGSS:
+        topics:
+            - Forces and motion:
+                  subtopics:
+                      - Force, mass, and acceleration
+                      - Introduction to momentum
+            - Types of interactions:
+                  subtopics:
+                      - Newton's law of universal gravitation
+                      - Coulomb's law
+                      - Electric and magnetic fields
+            - Introduction to energy:
+                  subtopics:
+                      - Introduction to energy
+                      - Forms of energy
+                      - Energy and fields
+                      - Energy at the microscopic scale
+            - Modeling energy:
+                  subtopics:
+                      - Calculating energy
+                      - Energy in systems
+                      - Predictions using energy
+                      - Thermodynamics
+            - Wave properties:
+                  subtopics:
+                      - Waves
+                      - Wave interference
+            - Electromagnetic radiation:
+                  subtopics:
+                      - Wave–particle duality
+                      - Electromagnetic radiation and matter
+                      - Emission of electromagnetic radiation
+            - Information technologies:
+                  subtopics:
+                      - Information in waves
+                      - Technology and waves

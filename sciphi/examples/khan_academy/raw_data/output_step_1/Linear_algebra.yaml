@@ -1,0 +1,28 @@
+course:
+    Linear algebra::
+        topics:
+            - Vectors and spaces:
+                  subtopics:
+                      - Vectors
+                      - Linear combinations and spans
+                      - Linear dependence and independence
+                      - Subspaces and the basis for a subspace
+                      - Vector dot and cross products
+                      - Matrices for solving systems by elimination
+                      - Null space and column space
+            - Matrix transformations:
+                  subtopics:
+                      - Functions and linear transformations
+                      - Linear transformation examples
+                      - Transformations and matrix multiplication
+                      - Inverse functions and transformations
+                      - Finding inverses and determinants
+                      - More determinant depth
+                      - Transpose of a matrix
+            - Alternate coordinate systems (bases):
+                  subtopics:
+                      - Orthogonal complements
+                      - Orthogonal projections
+                      - Change of basis
+                      - Orthonormal bases and the Gram-Schmidt process
+                      - Eigen-everything

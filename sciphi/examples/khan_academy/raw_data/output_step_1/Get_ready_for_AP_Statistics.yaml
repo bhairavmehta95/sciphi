@@ -1,0 +1,34 @@
+course:
+    Get ready for AP® Statistics::
+        topics:
+            - Exploring Categorical Data:
+                  subtopics:
+                      - Frequency Tables
+                      - Bar Graphs
+                      - Fractions, Decimals, and Percentages
+            - Exploring One-variable Quantitative Data:
+                  subtopics:
+                      - Frequency Tables and Dot Plots
+                      - Box and Whisker Plots
+                      - Comparing Data Displays
+                      - Mean, Median, and Mode
+                      - Mean Absolute Deviation
+                      - Linear Equations with Variables on Both Sides
+                      - Linear Equations with Unknown Coefficients
+            - Exploring Two-variable Quantitative Data:
+                  subtopics:
+                      - Introduction to Scatter Plots
+                      - Estimating with Trend Lines
+                      - Logarithms
+            - Probability:
+                  subtopics:
+                      - Fractions, Decimals, and Percentages
+                      - Comparing Decimals and Fractions
+                      - Arithmetic with Fractions
+                      - Probability Introduction
+                      - Experimental Probability
+            - Random Variables and Probability Distributions:
+                  subtopics:
+                      - Predictions with Probability
+                      - The Counting Principle
+                      - Probability Distributions Introduction

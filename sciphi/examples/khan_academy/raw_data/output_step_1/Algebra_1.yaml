@@ -1,0 +1,120 @@
+course:
+  Algebra 1::
+    topics:
+    - Algebra foundations:
+        subtopics:
+        - Overview and history of algebra
+        - Introduction to variables
+        - Substitution and evaluating expressions
+        - Combining like terms
+        - Introduction to equivalent expressions
+        - Division by zero
+    - Solving equations & inequalities:
+        subtopics:
+        - Linear equations with variables on both sides
+        - Linear equations with parentheses
+        - Analyzing the number of solutions to linear equations
+        - Linear equations with unknown coefficients
+        - Multi-step inequalities
+        - Compound inequalities
+    - Linear equations & graphs:
+        subtopics:
+        - Two-variable linear equations intro
+        - Slope
+        - Horizontal & vertical lines
+        - x-intercepts and y-intercepts
+        - Applying intercepts and slope
+        - Modeling with linear equations and inequalities
+    - Forms of linear equations:
+        subtopics:
+        - Intro to slope-intercept form
+        - Graphing slope-intercept equations
+        - Writing slope-intercept equations
+        - Point-slope form
+        - Standard form
+        - Summary: Forms of two-variable linear equations
+    - Systems of equations:
+        subtopics:
+        - Introduction to systems of equations
+        - Solving systems of equations with substitution
+        - Solving systems of equations with elimination
+        - Equivalent systems of equations
+        - Number of solutions to systems of equations
+        - Systems of equations word problems
+    - Inequalities (systems & graphs):
+        subtopics:
+        - Checking solutions of two-variable inequalities
+        - Graphing two-variable inequalities
+        - Modeling with linear inequalities
+    - Functions:
+        subtopics:
+        - Evaluating functions
+        - Inputs and outputs of a function
+        - Functions and equations
+        - Interpreting function notation
+        - Introduction to the domain and range of a function
+        - Determining the domain of a function
+        - Recognizing functions
+        - Maximum and minimum points
+        - Intervals where a function is positive, negative, increasing, or decreasing
+        - Interpreting features of graphs
+        - Average rate of change
+        - Average rate of change word problems
+        - Intro to inverse functions
+    - Sequences:
+        subtopics:
+        - Introduction to arithmetic sequences
+        - Constructing arithmetic sequences
+        - Introduction to geometric sequences
+        - Constructing geometric sequences
+        - Modeling with sequences
+        - General sequences
+    - Absolute value & piecewise functions:
+        subtopics:
+        - Graphs of absolute value functions
+        - Piecewise functions
+    - Exponents & radicals:
+        subtopics:
+        - Exponent properties review
+        - Radicals
+        - Simplifying square roots
+    - Exponential growth & decay:
+        subtopics:
+        - Exponential vs. linear growth
+        - Exponential expressions
+        - Graphs of exponential growth
+        - Exponential vs. linear growth over time
+        - Exponential growth & decay
+        - Exponential functions from tables & graphs
+        - Exponential vs. linear models
+    - Quadratics: Multiplying & factoring:
+        subtopics:
+        - Multiplying monomials by polynomials
+        - Multiplying binomials
+        - Special products of binomials
+        - Introduction to factoring
+        - Factoring quadratics intro
+        - Factoring quadratics by grouping
+        - Factoring quadratics with difference of squares
+        - Factoring quadratics with perfect squares
+        - Strategy in factoring quadratics
+    - Quadratic functions & equations:
+        subtopics:
+        - Intro to parabolas
+        - Solving and graphing with factored form
+        - Solving by taking the square root
+        - Vertex form
+        - Solving quadratics by factoring
+        - The quadratic formula
+        - Completing the square intro
+        - More on completing the square
+        - Strategizing to solve quadratic equations
+        - Quadratic standard form
+        - Features & forms of quadratic functions
+        - Comparing quadratic functions
+        - Transforming quadratic functions
+    - Irrational numbers:
+        subtopics:
+        - Irrational numbers
+        - Sums and products of rational and irrational numbers
+        - Proofs concerning irrational numbers

@@ -1,0 +1,50 @@
+course:
+    Math Get ready courses::
+        topics:
+            - Basic Algebra:
+                  subtopics:
+                      - Variables and Expressions
+                      - Solving Equations
+                      - Linear Equations
+                      - Quadratic Equations
+                      - Polynomials
+                      - Rational Expressions
+                      - Radical Expressions
+                      - Exponents and Logarithms
+            - Geometry:
+                  subtopics:
+                      - Points, Lines, and Planes
+                      - Angles and Their Measures
+                      - Triangles
+                      - Quadrilaterals
+                      - Circles
+                      - Area and Perimeter
+                      - Volume and Surface Area
+                      - Coordinate Geometry
+            - Trigonometry:
+                  subtopics:
+                      - Trigonometric Ratios
+                      - Trigonometric Identities
+                      - Trigonometric Functions
+                      - Inverse Trigonometric Functions
+                      - Trigonometric Equations
+                      - Trigonometric Applications
+                      - Complex Numbers
+            - Calculus:
+                  subtopics:
+                      - Limits and Continuity
+                      - Differentiation
+                      - Integration
+                      - Differential Equations
+                      - Applications of Derivatives
+                      - Applications of Integrals
+                      - Infinite Series
+            - Statistics and Probability:
+                  subtopics:
+                      - Descriptive Statistics
+                      - Inferential Statistics
+                      - Probability
+                      - Random Variables
+                      - Probability Distributions
+                      - Hypothesis Testing
+                      - Regression Analysis

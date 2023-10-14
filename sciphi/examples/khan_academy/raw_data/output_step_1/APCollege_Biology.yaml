@@ -1,0 +1,67 @@
+course:
+    AP®︎/College Biology::
+        topics:
+            - Chemistry of life:
+                  subtopics:
+                      - Structure of Water and Hydrogen Bonding
+                      - Elements of Life
+                      - Introduction to Biological Macromolecules
+                      - Properties, Structure, and Function of Biological Macromolecules
+                      - Nucleic Acids
+            - Cell structure and function:
+                  subtopics:
+                      - Cell Structures and Their Functions
+                      - Cell Size
+                      - Plasma Membranes
+                      - Membrane Permeability
+                      - Membrane Transport
+                      - Facilitated Diffusion
+                      - Mechanisms of Transport: Tonicity and Osmoregulation
+                      - Cell Compartmentalization and Its Origins
+            - Cellular energetics:
+                  subtopics:
+                      - Enzyme Structure and Catalysis
+                      - Cellular Energy
+                      - Photosynthesis
+                      - Cellular Respiration
+                      - Fitness
+            - Cell communication and cell cycle:
+                  subtopics:
+                      - Cell Communication
+                      - Signal Transduction
+                      - Changes in Signal Transduction Pathways
+                      - Feedback
+                      - Cell Cycle
+                      - Regulation of Cell Cycle
+            - Heredity:
+                  subtopics:
+                      - Meiosis and Genetic Diversity
+                      - Mendelian Genetics
+                      - Environmental Effects on Phenotype
+                      - Chromosomal Inheritance
+            - Gene expression and regulation:
+                  subtopics:
+                      - DNA and RNA Structure
+                      - Replication
+                      - Transcription and RNA Processing
+                      - Translation
+                      - Regulation of Gene Expression and Cell Specialization
+                      - Mutations
+                      - Biotechnology
+            - Natural selection:
+                  subtopics:
+                      - Natural Selection
+                      - Population Genetics
+                      - Hardy-Weinberg Equilibrium
+                      - Evidence for Evolution
+                      - Common Ancestry and Continuing Evolution
+                      - Phylogeny
+                      - Speciation
+                      - Extinction
+                      - Variations in Populations
+                      - Origins of Life on Earth
+            - Ecology:
+                  subtopics:
+                      - Community Ecology
+                      - Biodiversity
+                      - Disruptions to Ecosystems

@@ -53,8 +53,8 @@ class TextbookContentGeneratorSimplified:
 
     def run(
         self,
-        provider="openai",
-        model_name="gpt-4-0613",
+        provider="hugging-face",
+        model_name="open-phi/instruct-textbook-beta",
         toc_dir="table_of_contents",
         textbook="Aerodynamics_of_Viscous_Fluids",
         max_related_context_to_sample=2_000,
